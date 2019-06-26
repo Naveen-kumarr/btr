@@ -1,0 +1,29 @@
+.box-about{
+box-shadow:0 10px 40px -7px rgba(193, 209, 223, .51);
+border: unset;
+min-height: 16.5rem;
+margin-bottom: 1rem;
+}
+.icon{
+width: 70px;
+height: 70px;
+margin-bottom: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+border-radius: 35px;
+background-color: #F4F9FA;
+/* background-image: none; */
+/* font-family: 'Fa 400', sans-serif; */
+color: #117ABF;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+text-decoration: none;
+margin-left: auto;
+margin-right: auto;
+}
+.changebackground
+{
+	
+	padding-top:50px;
+}

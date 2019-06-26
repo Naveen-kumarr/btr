@@ -1,0 +1,18 @@
+.padddding
+{
+padding-top:100px;
+background-color:#117ABF;
+color:white;
+}
+.contactbutton
+{
+	background-color:transparent;
+	color:black;
+	border-color:#fff;
+}
+.contactbutton:hover
+{
+	background-color:gray;
+	color:black;
+	border-color:#fff;
+}

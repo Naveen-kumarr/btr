@@ -1,0 +1,7 @@
+.table thead th {
+    vertical-align: unset!important;
+    border-bottom:none!important;
+}
+.table td, .table th {
+	border-top:none!important;
+}

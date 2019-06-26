@@ -1,0 +1,61 @@
+@media only screen and (min-width:767px){
+.centerfordesktop
+{
+	padding-left:100px!important;
+}
+}
+a
+{
+	text-decoration:none!important;
+}
+.buttoncolor
+{
+	background-color:transparent!important;
+	color:black;
+	border-color:#117ABF!important;
+}
+.buttoncolor:hover
+{
+	color:gray;
+}
+
+.navbar-toggler
+{
+	background-color:white!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black !IMPORTANT;
+}
+.colorchange
+{
+	color:white!important;
+}
+.customtoggler
+{
+	color:white!important;
+}
+.sticky-top
+{
+	position:fixed;
+	width:100%;
+	color:white;
+	background-color: #fffff!important;
+}
+@media only screen and (max-width: 991px){ 
+.mobilenone
+{
+	display:none;
+}
+}
+@media only screen and (min-width: 991px){ 
+.mobileview
+{
+display:none	
+}
+}
+
+.bg-light
+{
+	/* background-color:transparent!important; */
+	border-bottom:1px solid #dcdcdc;
+}

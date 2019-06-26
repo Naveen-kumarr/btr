@@ -1,0 +1,21 @@
+.footer {
+width: 100%;
+background-color: #117ABF;
+color: white;
+text-align: center;
+}
+.btnn{
+background-color: #ffffff;
+outline-color: none;
+border-radius: 20px;
+outline: 0px;
+}
+
+.btn.focus, .btn:focus {
+outline: 0;
+box-shadow: none !important;
+}
+.questioncolor
+{
+	color:#117ABF;
+}
